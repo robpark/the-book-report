@@ -1,0 +1,27 @@
+---
+alwaysApply: true
+---
+
+# 4 Legs Software (4LS) Project Rules
+
+## Init Rules
+
+* Don't add comments that are redundant or obvious. Only add comments that provide meaningful context or explanations.
+
+## Git Rules
+
+* Never commit or push directly to `main` unless explicitly instructed to do so.
+* Never commit or push unless explicitly instructed to do so.
+
+## Code Style
+
+* Use single quotes for strings consistently
+* Limit line length to 120 chars wherever possible
+* Include trailing commas in dictionaries and lists
+* Avoid redundant comments that simply restate what the code already clearly expresses
+* Only add comments when they explain "why" not "what"
+* Let the code speak for itself through clear naming and structure
+
+## Documentation Style
+
+* Name markdown documents with all lower case names and kabob-case

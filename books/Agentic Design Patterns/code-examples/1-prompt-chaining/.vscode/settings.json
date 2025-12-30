@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/books/Agentic Design Patterns/code-examples/1-prompt-chaining/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/books/Agentic Design Patterns/code-examples/1-prompt-chaining/.venv/lib/python3.13/site-packages"
+  ]
+}
+
